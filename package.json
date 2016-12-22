@@ -1,0 +1,21 @@
+{
+  "name": "node_scrapt",
+  "version": "1.0.0",
+  "description": "scraping with cherio, request, mysql",
+  "main": "scrapt.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "not yet"
+  },
+  "author": "rifki",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "mysql": "^2.12.0",
+    "request": "^2.79.0"
+  }
+}
